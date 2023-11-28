@@ -1,0 +1,1 @@
+Skrypt spx.m generuje wyniki i zapisuje je w folderze w którym się znajduje. W tym samym folderze muszą znajdować się funckje lokalne (pozostałe pliki matlabowe) oraz plik spx.xlsx zawierający dane cenowe indeksu.
